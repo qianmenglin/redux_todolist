@@ -1,1 +1,1 @@
-use redux create todo list
+use javascript create todo list by redux
