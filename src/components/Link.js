@@ -3,11 +3,11 @@ import PropTypes from 'prop-types'
 
 
 const Link = ({ active, children, onClick }) => {
-    if (activce) {
+    if (active) {
         return <span>{children}</span>
     }
 
-    retrun (
+    return (
         <a
         href=""
         onClick={e => {
